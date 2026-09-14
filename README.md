@@ -6,7 +6,10 @@
 
 <h2>📺 Certifications</h2>
 
-- Comptia A+ Certificate 
+- Comptia A+ Certificate
+- Comptia Network + (In progress)
+- Comptia Security + (In Progress)
+- Google AI Professional Certificate
 - Database Specialist Career Certificate
 
 
