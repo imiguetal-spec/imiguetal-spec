@@ -4,6 +4,11 @@
 
 <h2>📺 Education</h2>
 
+- Bachelor's Degree in Computer Science
+- Master's Degree in Computer Science
+- Associate Degree in Information Technology
+- Information Systems Engineer
+
 <h2>📺 Certifications</h2>
 
 - Comptia A+ Certificate
